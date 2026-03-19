@@ -17,6 +17,7 @@
 
 ![Unit Tests](https://github.com/PorfirioTramontana/TemplatePOO2026/actions/workflows/pipeline.yaml/badge.svg)
 
+
 ## Valutazioni Automatiche di Qualità
 
 Questo repository contiene degli strumenti automatici di valutazione della qualità
